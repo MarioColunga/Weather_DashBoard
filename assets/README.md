@@ -11,3 +11,5 @@ Plan your trip with our Weather Dashboard.
 Deploy link: https://mariocolunga.github.io/Weather_DashBoard/
 
 Repository link: https://github.com/MarioColunga/Weather_DashBoard.git
+
+![image](https://user-images.githubusercontent.com/87739510/151282850-72f1ec60-edbc-4ffe-a012-d8b9010f5cf4.png)
