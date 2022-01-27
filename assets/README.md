@@ -8,4 +8,4 @@ You can search for different cities and these will be saved in the local storage
 Plan your trip with our Weather Dashboard. 
 
 
-
+Deploy link: https://mariocolunga.github.io/Weather_DashBoard/
